@@ -1,4 +1,4 @@
-# entrega-grupo-9.3
+# Entrega-grupo-9.3
 
 Realicen las modificaciones necesarias para que, si hay contenido en el campo para añadir nuevos ítems, al pulsar el botón Agregar:
 Se agregue el nuevo ítem al listado guardado
